@@ -1,16 +1,10 @@
-# 100DayLaravelChallenge
+# Testing
 
-- ⚡ #100DaysOfCode 
-- 💫 #100DayLaravelChallenge
+_This section covers testing in the Laravel framework._
 
-## Objetivos
+...
 
-[X] **Exercise 1**: CMS para principiantes en Laravel 10.
+## Contact
 
-Models, base de datos, rutas, controlador, vistas, estructura inicial de datos (Migraciones, factories y seeders) y local scopes.
-
-📹 [Video en Youtube] 👉: (https://www.youtube.com/watch?v=gSKdjBEQHg4)
-
-### Youtube
-
-- **[Full Stack - Experience](https://youtube.com/@fullstackexperience?sub_confirmation=1)**
+- **Email**: [hola@italofantone.com](mailto:hola@italofantone.com).
+- **LinkedIn**: [italofantone](https://linkedin.com/in/italofantone).
